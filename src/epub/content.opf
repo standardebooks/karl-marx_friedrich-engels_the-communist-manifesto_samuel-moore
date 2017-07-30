@@ -21,8 +21,8 @@
 		<meta property="file-as" refines="#title">Communist Manifesto, The</meta>
 		<dc:subject id="subject-1">Socialism</dc:subject>
 		<dc:subject id="subject-2">Communism</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/31193</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/31193</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31193</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31193</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -31,7 +31,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/31193</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/31193</dc:source>
 		<dc:source>https://archive.org/details/manifestoofcommu00marxrich</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
@@ -43,12 +43,16 @@
 		<meta property="se:name.person.full-name" refines="#author-1">Karl Marx</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Karl_Marx</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">NACOAFLINK</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">win</meta>
 		<meta property="file-as" refines="#author-2">Engels, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Friedrich Engels</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Friedrich_Engels</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">NACOAFLINK</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator">Samuel Moore</dc:contributor>
 		<meta property="file-as" refines="#translator">Moore, Samuel</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>

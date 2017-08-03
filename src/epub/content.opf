@@ -24,10 +24,10 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31193</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31193</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The Manifesto of the Communist Party</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			Perhaps the most influential and widely read political work of the 19th century. The Manifesto of the Communist Party briefly and succinctly lays out the political theory and history of class struggle. This edition includes Engel's own Preface and footnote annotations written for the English edition of 1888.
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>

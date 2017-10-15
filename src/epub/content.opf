@@ -41,28 +41,27 @@
 		<meta property="file-as" refines="#author-1">Marx, Karl</meta>
 		<meta property="se:name.person.full-name" refines="#author-1">Karl Marx</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Karl_Marx</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">NACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79006935</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">win</meta>
 		<dc:creator id="author-2">Friedrich Engels</dc:creator>
 		<meta property="file-as" refines="#author-2">Engels, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Friedrich Engels</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Friedrich_Engels</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">NACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79023029</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator">Samuel Moore</dc:contributor>
 		<meta property="file-as" refines="#translator">Moore, Samuel</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jules Breton</dc:contributor>
 		<meta property="file-as" refines="#artist">Breton, Jules</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Jules Adolphe Aimé Louis Breton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jules_Breton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82118660</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>

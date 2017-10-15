@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/karl-marx-and-friedrich-engels/the-communist-manifesto</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -36,7 +36,7 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Communist_Manifesto</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-marx-and-friedrich-engels_the-communist-manifesto</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore</meta>
 		<dc:creator id="author-1">Karl Marx</dc:creator>
 		<dc:creator id="author-2">Friedrich Engels</dc:creator>
 		<meta property="file-as" refines="#author-1">Marx, Karl</meta>

@@ -50,12 +50,17 @@ h6{
 }
 
 blockquote + p,
-blockquote p:first-child,
 h2 + p,
 h3 + p,
+h4 + p,
+h5 + p,
+h6 + p,
 header + p,
 hr + p,
-section[epub|type~="rearnotes"] > ol > li > p:first-child{
+ol + p,
+ul + p,
+table + p,
+p:first-child{
 	text-indent: 0;
 }
 

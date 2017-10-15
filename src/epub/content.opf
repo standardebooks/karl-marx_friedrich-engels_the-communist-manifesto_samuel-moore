@@ -38,13 +38,13 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Communist_Manifesto</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore</meta>
 		<dc:creator id="author-1">Karl Marx</dc:creator>
-		<dc:creator id="author-2">Friedrich Engels</dc:creator>
 		<meta property="file-as" refines="#author-1">Marx, Karl</meta>
 		<meta property="se:name.person.full-name" refines="#author-1">Karl Marx</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Karl_Marx</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">NACOAFLINK</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">win</meta>
+		<dc:creator id="author-2">Friedrich Engels</dc:creator>
 		<meta property="file-as" refines="#author-2">Engels, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Friedrich Engels</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Friedrich_Engels</meta>

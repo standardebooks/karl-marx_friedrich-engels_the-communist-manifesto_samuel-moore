@@ -27,7 +27,9 @@
 		<dc:description id="description">Karl Marx and Friedrich Engels’ classic analysis of modern industrial society and call for Working Class revolution.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			Perhaps the most influential and widely read political work of the 19th century. The Manifesto of the Communist Party briefly and succinctly lays out the political theory and history of class struggle. This edition includes Engel’s own Preface and footnote annotations written for the English edition of 1888.
+			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century. Karl Marx and Friedrich Engels’ “The Manifesto of the Communist Party” succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
+			&lt;p&gt;Following a short introduction, The Manifesto develops over four short chapters, discussing the historical background of class struggle, the relationship of Communists with other socialist and working class movements, a critical review of other contemporary socialist literature and thinking, and finally a brief summary of the Communist position related to the contemporary political situations in various European countries, concluding with the rousing call-to-arms, “Workingmen of all countries unite!”.&lt;/p&gt;
+			&lt;p&gt;This edition, translated by Samuel Moore, includes Engels’ own Preface and footnote annotations written for the English edition of 1888.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>

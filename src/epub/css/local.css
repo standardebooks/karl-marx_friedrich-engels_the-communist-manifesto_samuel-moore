@@ -5,3 +5,7 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+abbr.name{
+	white-space: nowrap;
+}

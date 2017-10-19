@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: /vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-10-19T01:55:17Z</dc:date>
+		<meta property="dcterms:modified">2017-10-19T01:55:17Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -23,20 +23,20 @@
 		<dc:subject id="subject-2">Communism</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31193</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31193</meta>
-		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Karl Marx and Friedrich Engels’ classic analysis of modern industrial society and call for Working Class revolution.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century. Karl Marx and Friedrich Engels’ “The Manifesto of the Communist Party” succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
-			&lt;p&gt;Following a short introduction, The Manifesto develops over four short chapters, discussing the historical background of class struggle, the relationship of Communists with other socialist and working class movements, a critical review of other contemporary socialist literature and thinking, and finally a brief summary of the Communist position related to the contemporary political situations in various European countries, concluding with the rousing call-to-arms, “Workingmen of all countries unite!”.&lt;/p&gt;
+			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century. Karl Marx and Friedrich Engels’ &lt;i&gt;The Manifesto of the Communist Party&lt;/i&gt; succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
+			&lt;p&gt;Following a short introduction, the &lt;i&gt;Manifesto&lt;/i&gt; develops over four short chapters, discussing the historical background of class struggle, the relationship of Communists with other socialist and working class movements, a critical review of other contemporary socialist literature and thinking, and finally a brief summary of the Communist position related to the contemporary political situations in various European countries, concluding with the rousing call-to-arms, “Workingmen of all countries unite!”&lt;/p&gt;
 			&lt;p&gt;This edition, translated by Samuel Moore, includes Engels’ own Preface and footnote annotations written for the English edition of 1888.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31193</dc:source>
 		<dc:source>https://archive.org/details/manifestoofcommu00marxrich</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">13198</meta>
+		<meta property="se:reading-ease.flesch">37.74</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Communist_Manifesto</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore</meta>
 		<dc:creator id="author-1">Karl Marx</dc:creator>
@@ -75,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

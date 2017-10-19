@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of The Communist Manifesto, by Karl Marx and Friedrich Engels</title>
+	<title>The cover for the Standard Ebooks edition of The Communist Manifesto, by Karl Marx and Friedrich Engels. Translated by Samuel Moore</title>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path d="M 50,1620 1350,1620 1350,2050 50,2050 Z" style="color:#000;fill-opacity:0.75"/>
-	<text style="fill:#fff;font-family:League Spartan;font-size:58.47953033px;letter-spacing:5px" text-anchor="middle" x="700" y="1775">THE COMMUNIST MANIFESTO</text>
-	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1895">KARL MARX</text>
-    <text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1955">FRIEDRICH ENGELS</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="1745">THE COMMUNIST</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="1825">MANIFESTO</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1925">KARL MARX</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1985">FRIEDRICH ENGELS</text>
 </svg>

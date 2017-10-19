@@ -9,3 +9,12 @@ span[epub|type~="subtitle"]{
 abbr.name{
 	white-space: nowrap;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}

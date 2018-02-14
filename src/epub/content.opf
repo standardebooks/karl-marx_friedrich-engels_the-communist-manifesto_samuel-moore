@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore</dc:identifier>
 		<dc:date>2017-10-19T01:55:17Z</dc:date>
-		<meta property="dcterms:modified">2018-02-07T20:40:55Z</meta>
-		<meta property="se:revision-number">12</meta>
+		<meta property="dcterms:modified">2018-02-14T20:57:04Z</meta>
+		<meta property="se:revision-number">13</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,7 +38,7 @@
 		<dc:description id="description">Karl Marx and Friedrich Engels’ classic analysis of modern industrial society and call for Working Class revolution.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century. Karl Marx and Friedrich Engels’ &lt;i&gt;The Manifesto of the Communist Party&lt;/i&gt; succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
+			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century, Karl Marx and Friedrich Engels’ &lt;i&gt;The Manifesto of the Communist Party&lt;/i&gt; succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
 			&lt;p&gt;Following a short introduction, the &lt;i&gt;Manifesto&lt;/i&gt; develops over four short chapters, discussing the historical background of class struggle, the relationship of Communists with other socialist and working class movements, a critical review of other contemporary socialist literature and thinking, and finally a brief summary of the Communist position related to the contemporary political situations in various European countries, concluding with the rousing call-to-arms, “Workingmen of all countries unite!”&lt;/p&gt;
 			&lt;p&gt;This edition, translated by Samuel Moore, includes Engels’ own Preface and footnote annotations written for the English edition of 1888.&lt;/p&gt;
 		</meta>

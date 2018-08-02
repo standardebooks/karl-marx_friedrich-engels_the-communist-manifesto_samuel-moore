@@ -6,10 +6,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;

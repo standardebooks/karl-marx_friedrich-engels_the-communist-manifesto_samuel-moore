@@ -26,22 +26,22 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Communist Manifesto</dc:title>
 		<meta property="file-as" refines="#title">Communist Manifesto, The</meta>
 		<dc:subject id="subject-1">Socialism</dc:subject>
 		<dc:subject id="subject-2">Communism</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31193</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31193</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85124118</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85029120</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Karl Marx and Friedrich Engels’ classic analysis of modern industrial society and call for Working Class revolution.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Perhaps the most influential and widely read political work of the 19th century, Karl Marx and Friedrich Engels’ &lt;i&gt;The Manifesto of the Communist Party&lt;/i&gt; succinctly lays out the political theory and history of class struggle.&lt;/p&gt;
 			&lt;p&gt;Following a short introduction, the &lt;i&gt;Manifesto&lt;/i&gt; develops over four short chapters, discussing the historical background of class struggle, the relationship of Communists with other socialist and working class movements, a critical review of other contemporary socialist literature and thinking, and finally a brief summary of the Communist position related to the contemporary political situations in various European countries, concluding with the rousing call-to-arms, “Workingmen of all countries unite!”&lt;/p&gt;
 			&lt;p&gt;This edition, translated by Samuel Moore, includes Engels’ own Preface and footnote annotations written for the English edition of 1888.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31193</dc:source>
 		<dc:source>https://archive.org/details/manifestoofcommu00marxrich</dc:source>

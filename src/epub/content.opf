@@ -44,6 +44,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31193</dc:source>
+		<meta property="se:production-notes">Headers of subchapters are kept in Arabic numbers and letters for clarity, because the text is so short.</meta>
 		<dc:source>https://archive.org/details/manifestoofcommu00marxrich</dc:source>
 		<meta property="se:word-count">13204</meta>
 		<meta property="se:reading-ease.flesch">37.64</meta>

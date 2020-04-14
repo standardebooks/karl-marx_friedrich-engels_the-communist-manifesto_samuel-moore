@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Titles in the ToC are correct, but lint can't understand this book's unique structure.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

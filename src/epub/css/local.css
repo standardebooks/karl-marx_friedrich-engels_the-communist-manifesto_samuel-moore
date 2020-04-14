@@ -14,3 +14,8 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+
+[epub|type~="subchapter"] h3 span,
+[epub|type~="subchapter"] h4 span{
+	display: inline;
+}

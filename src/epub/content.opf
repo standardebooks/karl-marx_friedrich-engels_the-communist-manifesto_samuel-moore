@@ -67,7 +67,6 @@
 		<meta property="se:role" refines="#author-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator">Samuel Moore</dc:contributor>
 		<meta property="file-as" refines="#translator">Moore, Samuel</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jules Breton</dc:contributor>
 		<meta property="file-as" refines="#artist">Breton, Jules</meta>

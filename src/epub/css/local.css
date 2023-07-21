@@ -9,14 +9,3 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-
-[epub|type~="z3998:subchapter"] h3,
-[epub|type~="z3998:subchapter"] h4,
-[epub|type~="z3998:subchapter"] h5{
-	display: inline-block;
-	margin-top: 0;
-}
-
-[epub|type~="z3998:subchapter"] hgroup{
-	text-align: center;
-}

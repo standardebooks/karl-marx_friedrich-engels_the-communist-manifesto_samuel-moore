@@ -66,6 +66,8 @@
 		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator">Samuel Moore</dc:contributor>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Samuel_Moore_(translator)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85014743</meta>
 		<meta property="file-as" refines="#translator">Moore, Samuel</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jules Breton</dc:contributor>

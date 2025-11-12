@@ -62,10 +62,10 @@
 		<meta property="file-as" refines="#author-2">Engels, Friedrich</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Friedrich_Engels</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79023029</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Samuel Moore</dc:contributor>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Samuel_Moore_(translator)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85014743</meta>

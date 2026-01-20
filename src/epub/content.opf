@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/31193</dc:source>
 		<meta property="se:production-notes">Headers of subchapters are kept in Arabic numbers and letters for clarity, because the text is so short.</meta>
 		<dc:source>https://archive.org/details/manifestoofcommu00marxrich</dc:source>
-		<meta property="se:word-count">13202</meta>
+		<meta property="se:word-count">13179</meta>
 		<meta property="se:reading-ease.flesch">38.05</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Communist_Manifesto</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore</meta>
